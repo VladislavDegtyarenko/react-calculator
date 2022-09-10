@@ -1,0 +1,7 @@
+.controls {
+   display: grid;
+   grid-template-columns: repeat(4, var(--btn-size));
+   grid-template-rows: repeat(5, var(--btn-size));
+   grid-gap: var(--btn-gap);
+   position: relative;
+}

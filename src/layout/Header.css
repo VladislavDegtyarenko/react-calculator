@@ -1,0 +1,11 @@
+.header h1 {
+   font-size: 0.675em;
+   line-height: 1;
+   margin-top: 0;
+   margin-bottom: 0.325em;
+   text-align: center;
+}
+
+.header span {
+   color: var(--btn-accent-color);
+}

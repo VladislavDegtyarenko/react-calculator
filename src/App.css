@@ -1,0 +1,15 @@
+.App {
+   font-size: 2.5em;
+   padding: 0.25em;
+}
+
+.Calc {
+   display: grid;
+   width: max-content;
+   margin: 0 auto;
+   border: solid 0.1em var(--btn-color);
+   border-radius: 0.75em;
+   padding: 0.25em;
+   box-sizing: border-box;
+   gap: calc(var(--btn-gap) * 3);
+}
